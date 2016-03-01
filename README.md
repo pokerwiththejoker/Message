@@ -1,5 +1,4 @@
 # Message
-<!DOCTYPE html>
 <html>
 <body>
 
